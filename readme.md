@@ -1,6 +1,6 @@
 ### Card Poke Api
 
-- Realizaremos una práctica muy sencilla consumiendo la API de Pokemon.
+- Realize una práctica muy sencilla consumiendo la API de Pokemon.
 
 #### Extensiones VSC
 
