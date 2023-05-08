@@ -19,7 +19,7 @@
 
 ### Links
 
-`<link>` : <rodrigodom01.github.io/proyectoPokeAPI/>
+`<link>` : <https://rodrigodom01.github.io/proyectoPokeAPI/>
 
 # Editor.md
 
